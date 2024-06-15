@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fun</title>
+
+        <style>
+                .title-container{
+                   border: 2px solid black;
+                   padding: 5px;
+                   text-align: center;
+                }
+                </style>
+</head>
+<body>
+
+        <div class="title-container"
+        <h1>This website is made for fun.</h1>
+        <p> <a href=index.htm </p> <button>Idk what to put here.</button></p>
+        <p> <a href=.html </p> <button>Pro direct links.</button></p>
+        <p> <a href=.htm </p> <button> Quiz</button></p>
+        
+</body>
+</html>
